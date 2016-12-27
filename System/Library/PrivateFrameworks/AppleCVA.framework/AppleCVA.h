@@ -1,0 +1,11 @@
+#import <AppleCVA/CVAShallowDoFRenderer.h>
+#import <AppleCVA/CVADepthFilter.h>
+#import <AppleCVA/CVATriangleYFilter.h>
+#import <AppleCVA/CVATriangleXFilter.h>
+#import <AppleCVA/CVABGFilter.h>
+#import <AppleCVA/CVAFGFilter.h>
+#import <AppleCVA/CVAPreferenceManager.h>
+#import <AppleCVA/VideoMattingMetal.h>
+#import <AppleCVA/CVAFixupFilter.h>
+#import <AppleCVA/CVAAlphaFilter.h>
+#import <AppleCVA/CVACoCFilter.h>

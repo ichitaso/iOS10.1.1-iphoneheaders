@@ -1,0 +1,4 @@
+#import <VideoSubscriberAccountDeveloperSettings/VSDeveloperAttributeCell.h>
+#import <VideoSubscriberAccountDeveloperSettings/VSDeveloperIdentityProviderViewController_iOS.h>
+#import <VideoSubscriberAccountDeveloperSettings/VSDeveloperAttribute.h>
+#import <VideoSubscriberAccountDeveloperSettings/VSDeveloperSettingsViewController_iOS.h>

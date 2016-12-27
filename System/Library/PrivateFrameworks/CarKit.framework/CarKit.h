@@ -1,0 +1,13 @@
+#import <CarKit/CRCarKitServiceClient.h>
+#import <CarKit/CRCarPlayAppBlacklist.h>
+#import <CarKit/CRPairedVehicleManager.h>
+#import <CarKit/CRVehicleInformation.h>
+#import <CarKit/CRVehicle.h>
+#import <CarKit/CRCarPlayPreferences.h>
+#import <CarKit/CRVehiclePolicyMonitor.h>
+#import <CarKit/CRCarPlayAppDeclaration.h>
+#import <CarKit/CRCarPlayAppPolicy.h>
+#import <CarKit/CRCarPlayAppPolicyEvaluator.h>
+#import <CarKit/CRVehicleAccessory.h>
+#import <CarKit/CRVehicleAccessoryManager.h>
+#import <CarKit/CRUsageInformation.h>
